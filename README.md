@@ -40,5 +40,5 @@ Power LED not lit?
 
 These are devices that are tested and proven to work good in combination with the OctaWave
 
-* RME DigiFace (gives you up to 32 outputs with 4 OctaWaves)
+* RME DigiFace (gives you up to 32 outputs with 4 OctaWave devices)
 * MiniDSP MCHStreamer (cheap solution to get ADAT outputs via USB)
