@@ -20,6 +20,22 @@ The OctaWave is a portable ADAT Lightpipe to 8 channel analog audio DAC / conver
 * Compact form factor (140x60x25mm)
 * Very low < 1W power consumption
 
+## Setup instructions
+
+* Connect your ADAT output (e.g. from your Audio Interface, such as RME Digiface, MiniDSP MCHstreamer) with an optical cable to the ADAT input of the Octawave
+* Make sure your Audio Interface is running at 44/48kHz Sample Rate. Sample Rates above 48kHz are not supported. Using 96kHz will result in only 4 audio outputs being available due to S/MUX
+* Power the OctaWave DAC via USB Type-C. You can use a power bank (make sure it doesn’t shut down with too low power consumption), a 500mA USB Power Supply or connect it straigt to your computer. For lowest noise and best performance, we recommend using a brickwall adapter.
+* Connect your outputs to your gear (mixer, effects, ..)
+
+## Troubleshooting
+
+Link LED is not lit?
+* Check if your ADAT output is wired correctly. The port should be glowing red.
+* Check if your sample rate is correct
+
+Power LED not lit?
+* Check if the Power Supply is connected or if the plug is correctly inserted.
+
 ## Companion devices
 
 These are devices that are tested and proven to work good in combination with the OctaWave
